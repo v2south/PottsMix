@@ -15,20 +15,20 @@ This directory contains software and data associated with the Manuscript “A Po
 5.	Data4 - a subdirectory that contains real data ‘Data4.Data’ used for application. 
 
 6.	For each of ‘Data1.RData’, ‘Data2.RData’ and ‘Data3.RData’, it includes the following data inside:
-  6.1	X_E - lead field matrix for EEG
-  6.2	X_M – lead field matrix for MEG
-  6.3	Y_E – simulated EEG data 
-  6.4	Y_M – simulated MEG data 
-  6.5	S – true source of neural activity
-  6.6	true_Z – true allocation of  mixture components on the cortical surface.
-  6.7	sim – logical variable indicating if the dataset is simulated(TRUE) or real data(FALSE)
+  * 6.1	X_E - lead field matrix for EEG
+  * 6.2	X_M – lead field matrix for MEG
+  * 6.3	Y_E – simulated EEG data 
+  * 6.4	Y_M – simulated MEG data 
+  * 6.5	S – true source of neural activity
+  * 6.6	true_Z – true allocation of  mixture components on the cortical surface.
+  * 6.7	sim – logical variable indicating if the dataset is simulated(TRUE) or real data(FALSE)
 
 7.	 For ‘Data4.RData’, it only contains following data:
-  7.1	X_E - lead field matrix for EEG
-  7.2	X_M – lead field matrix for MEG
-  7.3	Y_E – real EEG data 
-  7.4	Y_M – real MEG data 
-  7.5	sim – logical variable indicating if the dataset is simulated(TRUE) or real data(FALSE)
+  * 7.1	X_E - lead field matrix for EEG
+  * 7.2	X_M – lead field matrix for MEG
+  * 7.3	Y_E – real EEG data 
+  * 7.4	Y_M – real MEG data 
+  * 7.5	sim – logical variable indicating if the dataset is simulated(TRUE) or real data(FALSE)
 
 ## Using the software for running ICM algorithm.
 
