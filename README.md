@@ -1,6 +1,6 @@
 # PottsMix
 
-This directory contains software and data associated with the Manuscript “A Potts-Mixture Spatiotemporal Joint Model for Combined MEG and EEG Data".
+This directory contains software and data associated with the Manuscript “A Potts-Mixture Spatiotemporal Joint Model for Combined MEG and EEG Data".The manuscript could be obtained on [arXiv](https://arxiv.org/abs/1710.08269)
 
 ## CONTENTS: 
 1.	PottsMix.R – R code for running the Iterative Conditional Modes algorithm developed in this paper.
